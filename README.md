@@ -11,4 +11,12 @@ The file H01.ipynb contains the notebook with all the code and developing proces
 6. Evaluation and tuning
 7. Predicting
 
-At the end of the hackathon, I got a score of 0.162588076 which got me in 5th place :)
+At the end of the hackathon, I got a score of 0.162588076 which got me in the Top 5 :)
+
+![Scoreboard](scoreboard.jpg)
+
+PS: The comments in the file are in Spanish, my native language. If you have any questions, just hit me up at urbdaniel.86@gmail.com
+
+Best,
+
+Danny Ramirez
